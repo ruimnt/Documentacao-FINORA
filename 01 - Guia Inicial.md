@@ -16,7 +16,7 @@ Neste guia você vai criar um pagamento Pix no ambiente de testes (sandbox) da F
 
 **Quatro passos: criar a conta sandbox, gerar as credenciais, obter o token e criar um pagamento**
 
-(..**INSERIR IMAGEM AQUI**/images/01-passos-getting-started.svg)
+<img width="960" height="240" alt="Image" src="https://github.com/user-attachments/assets/49cf3210-24c4-41ad-8c75-4f9294b256f1" />
 
 > [!NOTE]
 > Os exemplos seguem a **Livraria Boa Página**, um e-commerce fictício de livros. Você vai criar o pagamento do pedido #4821, no valor de R$ 150,00.
