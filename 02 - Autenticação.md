@@ -13,7 +13,7 @@ A API da Finora usa **OAuth 2.0** com o fluxo *client credentials*. Esse fluxo s
 
 **Diagrama de sequência: a aplicação pede o token, o servidor de autorização responde com o access_token e a API valida o token a cada requisição**
 
-(**INSERIR IMAGEM AQUI**../images/02-fluxo-autenticacao.svg)
+<img width="960" height="520" alt="Image" src="https://github.com/user-attachments/assets/160f5201-a42e-4d5a-b455-569a1d1f9603" />
 
 1. Sua aplicação envia o `client_id`, o `client_secret` e os escopos desejados para `POST /oauth/token`.
 2. O servidor de autorização responde com um `access_token` que expira em 3600 segundos (1 hora).
