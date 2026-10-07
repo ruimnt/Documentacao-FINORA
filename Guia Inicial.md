@@ -14,7 +14,9 @@ Neste guia você vai criar um pagamento Pix no ambiente de testes (sandbox) da F
 3. Obtido um token de acesso.
 4. Criado e consultado um pagamento.
 
-![Quatro passos: criar a conta sandbox, gerar as credenciais, obter o token e criar um pagamento](../images/01-passos-getting-started.svg)
+**Quatro passos: criar a conta sandbox, gerar as credenciais, obter o token e criar um pagamento**
+
+(..**INSERIR IMAGEM AQUI**/images/01-passos-getting-started.svg)
 
 > [!NOTE]
 > Os exemplos seguem a **Livraria Boa Página**, um e-commerce fictício de livros. Você vai criar o pagamento do pedido #4821, no valor de R$ 150,00.
@@ -40,7 +42,9 @@ A Finora oferece dois ambientes. Use sempre o sandbox enquanto desenvolve.
 
 Quando o ambiente estiver ativo, o console exibe a etiqueta **Sandbox** no canto superior direito.
 
-![Painel da Finora com a etiqueta Sandbox, indicadores de volume e a lista de últimos pagamentos](../images/05-mockup-painel-pagamentos.svg)
+**Painel da Finora com a etiqueta Sandbox, indicadores de volume e a lista de últimos pagamentos**
+
+(**INSERIR IMAGEM AQUI**../images/05-mockup-painel-pagamentos.svg)
 
 ## Passo 2: gere as credenciais
 
