@@ -41,7 +41,7 @@ Use a API de Pagamentos para receber por **Pix**, **boleto** e **cartão de cré
 
 [Estados de um pagamento: created, pending, authorized, settled e refunded, com os desvios failed e canceled]
 
-(**INSERIR IMAGEM AQUI**../images/04-ciclo-de-vida-pagamento.svg)
+<img width="960" height="350" alt="Image" src="https://github.com/user-attachments/assets/f101e461-c818-4239-95b2-0c15a443cba2" />
 
 | Status | Significado |
 |---|---|
