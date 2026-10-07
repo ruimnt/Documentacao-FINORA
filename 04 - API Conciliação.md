@@ -41,7 +41,7 @@ No console, a tela de conciliação reúne o resultado do processamento. Linhas 
 
 [Tela de conciliação com 1.248 lançamentos conciliados, 37 pendentes e 6 divergentes, e uma linha de divergência de R$ 1,25 em um crédito de cartão]
 
-(**INSERIR IMAGEM AQUI**../images/06-mockup-conciliacao.svg)
+<img width="960" height="560" alt="Image" src="https://github.com/user-attachments/assets/da48f679-e580-4e47-9f2f-410d54afd971" />
 
 Tudo que o console mostra também está disponível pela API, descrita a seguir.
 
