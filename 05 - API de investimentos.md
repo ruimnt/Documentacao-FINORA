@@ -11,7 +11,7 @@ Esta página reúne as três APIs de produtos financeiros da Finora. Todas segue
 
 [Área do cliente da Finora com os painéis de cartão de crédito, investimentos e cripto]
 
-(**INSERIR IMAGEM AQUI**../images/07-mockup-cartao-investimentos-cripto.svg)
+<img width="960" height="580" alt="Image" src="https://github.com/user-attachments/assets/e3873c53-1d7a-4008-b04b-7afecf386682" />
 
 > [!NOTE]
 > Quantidades de criptoativos e percentuais são enviados como **texto** (`"0.01200000"`), não como número. Números decimais perdem precisão em algumas linguagens e, em finanças, um arredondamento errado vira diferença de dinheiro.
